@@ -1,0 +1,7 @@
+.kids,  .adults, .all{
+  display: none;
+}
+
+#ride-list {
+  display: none;
+}
